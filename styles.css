@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to bottom, #c7d3cf, #0dbd97);
+}
+
+p.texto_centrado {
+    text-align: center;
+    font-size: 20px;
+    color:rgb(2, 5, 4)
+}
